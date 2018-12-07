@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/eastnobleafs/precache-manifest.a188b2a616f81f868c1117696eac4346.js"
+  "/eastnobleafs/precache-manifest.65fc4db56dc67715e2bc7ec23e55bf42.js"
 );
 
 workbox.clientsClaim();
